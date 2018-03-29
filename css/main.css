@@ -1,3 +1,28 @@
 html {
   font-family: Merriweather, serif;
 }
+
+.vostok, .kosmos, .india, .eighteen {
+border-radius: 8px;
+background-color: #f2f2f2;
+border: #666;
+color: #333;
+}
+
+.remembrance {
+border-radius: 8px;
+}
+
+.surtsey, .altitude {
+border-radius: 8px;
+background-color: #d1e0bf;
+border: #6b7e54;
+color: #51603f;
+}
+
+.death, .premiere {
+border-radius: 8px;
+background-color: #d2d6f0;
+border: #1d38da;
+color: #38448e;
+}
