@@ -11,6 +11,9 @@ color: #333;
 
 .remembrance {
 border-radius: 8px;
+background-color: #f2bcbc;
+border: #b92828;
+color: #991919;
 }
 
 .surtsey, .altitude {
