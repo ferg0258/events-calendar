@@ -3,28 +3,28 @@ html {
   background-color: #f2f2f2;
 }
 
-.vostok, .kosmos, .india, .eighteen {
+.grey {
   border-radius: 8px;
   background-color: #ccc;
   border: #666;
   color: #333;
 }
 
-.remembrance {
+.red {
   border-radius: 8px;
   background-color: #f2bcbc;
   border: #b92828;
   color: #991919;
 }
 
-.surtsey, .altitude {
+.green {
   border-radius: 8px;
   background-color: #d1e0bf;
   border: #6b7e54;
   color: #51603f;
 }
 
-.death, .premiere {
+.blue {
   border-radius: 8px;
   background-color: #d2d6f0;
   border: #1d38da;
